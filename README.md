@@ -1,18 +1,9 @@
 # PlaceholderAPI-Expansion
-PlaceholderAPI Expansion for MiniPlaceholders
+1.19.4 branch of PlaceholderAPI Expansion for MiniPlaceholders
 
 ## Supported Platforms
 
 - Paper
-- Folia
-- Velocity
-
-### If you are using Velocity
-
-In order to use PlaceholderAPI placeholders with MiniPlaceholders Velocity,
-you must install [PAPIProxyBridge](https://modrinth.com/plugin/papiproxybridge) according to its installation guide
-
-On Velocity there is an additional optional `expiry` parameter for how long the placeholder should be cached. This value is in milliseconds.
 
 ## Placeholders
 
