@@ -1,11 +1,12 @@
 plugins {
     java
     alias(libs.plugins.shadow)
+    eclipse
+    
 }
 
 dependencies {
     implementation(projects.placeholderapiExpansionPaper)
-    implementation(projects.placeholderapiExpansionVelocity)
 }
 
 tasks {
