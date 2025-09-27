@@ -1,6 +1,6 @@
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
-rootProject.name = "PlaceholderAPI-Expansion"
+rootProject.name = "PlaceholderAdapter-Expansion"
 
 plugins {
     id("org.gradle.toolchains.foojay-resolver-convention") version "0.8.0"
